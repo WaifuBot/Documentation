@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is the full, comprehensive (but not really) WaifuBot documentation. All sorts of useful information can be found in this document:
+This is the ~~full, comprehensive (but not really)~~ work in progress WaifuBot documentation. All sorts of useful information can be found in this document:
 
 - An outline of a myriad of issues you may encounter while using the bot and instructions on how to fix them
 - A brief beginner's guide to the bot
