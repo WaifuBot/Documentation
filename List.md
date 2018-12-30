@@ -1,6 +1,6 @@
 # List and Waifu ID Types
 
-Cool, you have claimed a waifu. Now how do you see em'? Use the list command.
+Cool, you went ahead and claimed yourself a waifu. Now how do you see em'? Use the list command.
 
 ## The List Command
 

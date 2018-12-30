@@ -14,7 +14,7 @@ You may peruse this text in its entirety (not recommended) or skim through it us
 
 Typing "waifus and husbandos" is quite cumbersome, so I will be referring to all waifus/husbandos as waifus in this documentation.
 
-All commands in this documentation are displayed with the default ``.w`` prefix. If a server has changed the prefix, the default prefix will not work. Substitute ``.w`` with the server's prefix.
+All commands in this documentation are displayed with the default ``w.`` prefix. If a server has changed the prefix, the default prefix will not work. Substitute ``w.`` with the server's prefix.
 
 ## Mission
 
