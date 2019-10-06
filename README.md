@@ -1,10 +1,10 @@
 # WaifuBot Documentation
 
-![waifubot](https://i.imgur.com/D6uJPhX.png)
+![waifubot](https://waifubot.net/static/len.jpg)
 
 ## Introduction
 
-This is the ~~full, comprehensive (but not really)~~ work in progress WaifuBot documentation. All sorts of useful information can be found in this document:
+This is the ~~full, comprehensive~~ work in progress WaifuBot documentation. All sorts of useful information can be found in this documentation:
 
 - An outline of a myriad of issues you may encounter while using the bot and instructions on how to fix them
 - A brief beginner's guide to the bot
@@ -18,11 +18,13 @@ All commands in this documentation are displayed with the default ``w.`` prefix.
 
 ## Mission
 
-Why did I create WaifuBot? WaifuBot was created as a meme—and it still is. Even through 17 thousand servers, WaifuBot is still a meme. Even through the hours of development and hardships encountered creating it, WaifuBot is still a meme. And I am aiming to make WaifuBot the most epic meme possible.
+Why did I create WaifuBot? WaifuBot was created as a meme—and it still is. Even through 59 thousand servers, WaifuBot is a meme. Even through the hours of development and hardships encountered creating it, WaifuBot is a meme. And I am aiming to make WaifuBot the most epic meme possible.
 
 ## Acknowledgements
 
 - [Docsify](https://docsify.js.org/#/) for being easy documentation software I don't have to do any ridiculous CSS black magic for WaifuBot's documentation
+- [Courierfive](https://twitch.tv/courierfive) for being a bad Warcraft 3 minigame streamer
+- Damien for being the depressed Korean pizza delivery man
 - Jesus Christ for taking away the sins of the world
 - Kohai/Shuiro for giving me the ideas that led to the creation of the bot
 - Maze for hosting the bot in its infancy

@@ -1,6 +1,6 @@
 # Your Waifu
 
-When you claim a waifu, you are not claiming the character. You are claiming an instance of the character: a waifu. Every waifu exists independently of its character; think of the waifu as a blue ball and the character as a box of blue balls. Every waifu has individual stats, rarity, and cooldowns.
+When you claim a waifu, you are not claiming the character. You are claiming an instance of the character: a waifu. Every waifu exists independently of its character; think of the waifu as a car and the character as the model of car. Every waifu has individual stats, rarity, and cooldowns.
 
 ## Viewing Your Waifu
 ![view](https://cdn.discordapp.com/attachments/485936130064384001/528461059053453312/unknown.png)
@@ -19,7 +19,7 @@ See [Rarity/Types](Rarity)
 
 See [Fights](Fights)
 
-CSI is just a mean value, I named it CSI because it sounds cool.
+CSI is just a mean value for all stats; I named it CSI because it sounds cool.
 
 ## Affection
 

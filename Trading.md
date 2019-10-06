@@ -8,7 +8,7 @@ Person A has a waifu that Person B wants. Person B has a waifu that Person A wan
 
 Begin a trade:
 
-User 1: ``w.trade start <@User 2>``
+User 1: ``w.trade <@User 2>``
 
 Have the other user accept the trade:
 

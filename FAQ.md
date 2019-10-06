@@ -2,31 +2,31 @@
 
 ### Alright, I've added the bot to my server. Now what do I do?
 
-Wait around to [claim a waifu](Claiming). Don't just sit there idly, though—waifus will only spawn if you are talking! You should also take a look at the ``w.help`` command and the configurative section of it.
+Wait around to [claim a waifu](Claiming). Don't just sit there idly, though—waifus will only spawn if there is text activity in channels that the bot can view. Take a look at the ``w.help`` command and the configurative section of it to configure the bot to your preferences.
 
 ### Nothing is spawning!
 
-If nothing is spawning then it is either one of three problems: nobody is talking, the bot does not have permissions, or the bot is broken. It is more than likely to be the first two than the third. Talk, make some noise. Run ``w.diagnostics`` to check if WaifuBot has a healthy amount of channels to view.
+If nothing is spawning then it is one of three problems: nobody is talking, the bot does not have permissions, or the bot is broken. It is more likely to be the first two than the third. Talk, make some noise. Run ``w.diagnostics`` to check if WaifuBot has read access to the channels that are being spoken in.
 
 ### I've claimed waifus, what do I do with them?
 
-Trade, interact, fight. You'll have no fun using WaifuBot by yourself, so go and get some friends to use it as well.
+Trade, interact, fight, dungeons. You'll have no fun using WaifuBot by yourself, so go and get some friends to use it as well. The focal point of this bot is collecting different waifus of different rarities with different images and trading them.
 
 ### This seems a bit boring.
 
-Yeah, maybe it is. Maybe you can try suggesting some new features with ``w.suggest``? Or maybe go directly to the [suggestions webform](https://flandre.cirno.pw/suggest.php).
+Yeah, maybe it is. Maybe you can try suggesting some new features with ``w.suggest``? Or maybe go directly to the [suggestions webform](https://waifubot.net/suggestions).
 
 ### I want a character added to the bot, what do?
 
-Use ``w.suggestcharacter <MyAnimeList Character URL>``. I'll add them if they aren't obscure. I have no plans to add suggestions from outside of MyAnimeList for two reasons: the database is already locked to MyAnimeList IDs and I have no motivation to change it, and I plan to keep the bot anime-only.
+Nagivate to the [character suggestions pannel](https://waifubot.net/charactersuggestions?page=1&sort=new). Characters with the most votes will be added every couple of weeks. Only characters that are on MyAnimeList will be considered for addition to the bot--the database is locked to MyAnimeList IDs and I plan on keeping the bot anime-only.
 
 ### I got the right name for the character, why won't it work?
 
-The names on MAL are romanized differently from subtitles sometimes. Since the bot pulls from MAL, it is the same on the bot. Use ``w.lookup <partial name>`` if you are having difficulty with the name.
+The names on MyAnimeList are romanized differently from commonly spotted names sometimes (Rin Toosaka vs Rin Tohsaka). Since the bot pulls from MyAnimeList, character names are the same on the bot. Use ``w.lookup <partial name>`` if you are having difficulty with the name.
 
 ### Is there any individual value to waifus? Are all waifus of one character the same?
 
-Each waifu has individual stats, take a look at [List](List) and [Your Waifu](Waifu).
+Each waifu has individual stats, different images, and different rarity. Take a look at [List](List) and [Your Waifu](Waifu) for more information.
 
 ### What the hell is CSI?
 
@@ -46,4 +46,4 @@ They're all the same.
 
 ### Why isn't the bot open source?
 
-I want certain implementation details to remain hidden. The code is also an absolute mess.
+Anti-paste(tm)

@@ -1,6 +1,7 @@
 - General
     - [Introduction](README.md)
     - [FAQ](FAQ.md)
+    - [Donations](Donations.md)
 
 - Guides
     - [Claiming](Claiming.md)
